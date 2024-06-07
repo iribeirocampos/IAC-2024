@@ -1,14 +1,5 @@
 #
 # IAC 2023/2024 k-means
-# 
-# Grupo: 8
-# Campus: Taguspark
-#
-# Autores:
-# 51948, Iuri Campos
-# 103192, Miguel Noronha
-# 110645, Duarte Oliveira
-#
 # Tecnico/ULisboa
 
 
