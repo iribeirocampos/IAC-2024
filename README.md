@@ -53,7 +53,7 @@ Trouble Shooting:
 Errors “msvcp140.dll error” or “msvcp140_1.dll error”, please install “Visual C++ Redistributable”.
 
 ### Linux
- 1. Go to [https://github.com/mortbopet/Ripes](https://github.com/mortbopet/Ripes/releases/)
+ 1. Go to [Ripes Github](https://github.com/mortbopet/Ripes/releases/)
 
  2. Download the version for your OS.
  3. Open Terminal on the download folder, and run: ```chmod ug+x```
