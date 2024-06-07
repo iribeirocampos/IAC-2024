@@ -26,7 +26,7 @@
 
 The aim of the project is to develop, in RISC-V assembly, a program that, given an initial set of	initial set of points in a two-dimensional (2D) space, identifies groups of points,	taking into account the relative proximity of the points in each group.	To do this the iterative k-means algorithm will be implemented.
 
-[image](k-means.PNG)
+![image](./k-means.PNG)
 
 This algorithm is widely used in applications in different domains - from computer vision	from computer vision, machine learning, intrusion detection in cybersecurity, to astronomy.	For these applications to be effective, it is essential that the implementation of the	k-means algorithm be efficient
 
