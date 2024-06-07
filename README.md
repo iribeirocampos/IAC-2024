@@ -47,7 +47,7 @@ The code was written and ran in a simulator called Ripes. You need to install it
 ### Windows
  1. Go to
 ```bash
-[https://github.com/mortbopet/Ripes](https://github.com/mortbopet/Ripes/releases)
+[Ripes Github](https://github.com/mortbopet/Ripes/releases)
 ```
  2. Download the version for your OS.
  3. Run ```Ripes.exe```
