@@ -47,7 +47,7 @@ The code was written and ran in a simulator called Ripes. You need to install it
 ### Windows
  1. Go to
 ```bash
-[Ripes Github](https://github.com/mortbopet/Ripes/releases)
+[Ripes Github](https://github.com/mortbopet/Ripes/releases/)
 ```
  2. Download the version for your OS.
  3. Run ```Ripes.exe```
@@ -58,7 +58,7 @@ Errors “msvcp140.dll error” or “msvcp140_1.dll error”, please install �
 ### Linux
  1. Go to
 ```bash
-[https://github.com/mortbopet/Ripes](https://github.com/mortbopet/Ripes/releases)
+[https://github.com/mortbopet/Ripes](https://github.com/mortbopet/Ripes/releases/)
 ```
  2. Download the version for your OS.
  3. Open Terminal on the download folder, and run: ```chmod ug+x```
@@ -94,4 +94,3 @@ Enjoy.
 <h2>Copyright</h2>
 This project is licensed under the terms of the MIT license and protected by IST Honor Code and Community Code of Conduct. 
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
