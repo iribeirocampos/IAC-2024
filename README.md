@@ -19,7 +19,7 @@
 - Architecture of a processor: basic instruction cycle; notion of program counter and address; internal structure of a processor; instruction encoding; flags; special registers; datapath; register-bank; arithmetic logic unit (ALU); control unit; analysis of instruction execution.
 - Memory system: addressing; caches; basic notions of virtual memory. Inputs/outputs.
  
-### Grade: 19/20 ![Grade](https://img.shields.io/badge/Grade-A%2B-brightgreen)
+### Grade: 20/20 ![Grade](https://img.shields.io/badge/Grade-A%2B-brightgreen)
 
 
 ## Problem Specification
