@@ -65,13 +65,13 @@ Errors “msvcp140.dll error” or “msvcp140_1.dll error”, please install �
 sudo apt install libfuse2
 ```
 
-5. Add Ripes to the program List(optional)
-  5.1. Install AppImageLAuncher:
+5. Add Ripes to the program List(optional) <br>
+  5.1. Install AppImageLAuncher: <br>
     ```bash
     sudo add-apt-repository ppa:appimagelauncher-team/stable
     sudo apt-get update
-    sudo apt-get install appimagelauncher```
-  5.2. Run Ripes ``` ./Ripes-vXXXXXXXXXXXX.AppImage ```
+    sudo apt-get install appimagelauncher``` <br>
+  5.2. Run Ripes ``` ./Ripes-vXXXXXXXXXXXX.AppImage ``` <br>
   5.3. AppImageLauncher will ask if you want to add Ripes to the program list, click yes.
 
 ## Run
