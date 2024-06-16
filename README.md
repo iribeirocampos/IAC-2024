@@ -71,7 +71,7 @@ sudo apt install libfuse2
     sudo add-apt-repository ppa:appimagelauncher-team/stable
     sudo apt-get update
     sudo apt-get install appimagelauncher```
-  5.2. Run Ripes ``` ./'Ripes-vXXXXXXXXXXXX.AppImage'
+  5.2. Run Ripes ``` ./'Ripes-vXXXXXXXXXXXX.AppImage' ```
   5.3. AppImageLauncher will ask if you want to add Ripes to the program list, click yes.
 
 ## Run
